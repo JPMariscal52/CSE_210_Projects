@@ -1,0 +1,4 @@
+50
+SimpleGoal:Exercise,Go to run 15 km,50,True
+EternalGoal:Reading,Read the institute lesson,40,False
+ChecklistGoal:Praying,Pray every day of the week,100,500,7,0,False
